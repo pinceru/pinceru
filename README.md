@@ -5,6 +5,10 @@
 - 🎓 Também estou cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba. 
 - 📫 Contate-me no e-mail: welington.pincer@gmail.com
 
+#### Os projetos visiveis nessa conta, são apenas os projetos desenvolvidos exclusivamente por mim. Por necessidade, treino ou curiosidade.
+#### Projetos realizados acompanhando aulas e projetos que tiveram a interferencia de alguma outra pessoa, mesmo correção de professor, estão privados.
+
+
 <div align="center">
   <a href="https://github.com/pinceru">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinceru&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
