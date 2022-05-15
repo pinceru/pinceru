@@ -16,11 +16,11 @@
 </div>
 
  <div style="display: inline_block"><br>
-   <img align="center" alt="Spring" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-   <img align="center" alt="Java" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-   <img align="center" alt="MySQL" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-   <img align="center" alt="PHP" height="30" width="35"  src="https://cdn-icons-png.flaticon.com/512/919/919830.png">
-   <img align="center" alt="Python" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />                                                                                                                                       
+   <img align="center" alt="Spring" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+   <img align="center" alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+   <img align="center" alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+   <img align="center" alt="PHP" height="40" width="45"  src="https://cdn-icons-png.flaticon.com/512/919/919830.png">
+   <img align="center" alt="Python" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />                                                                                                                                       
 </div>
 
 ##
