@@ -1,6 +1,6 @@
 ### Olá! Sou o Welington Pincer. 👋
 
-- 👨‍💻 Estou trabalhando como estagiário na Accurate Software, como desenvolvedor back-end. 
+- 👨‍💻 Estou trabalhando como Analista de Sistemas Jr. na Accurate Software, como desenvolvedor back-end. 
 - 🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI Jandira.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba. 
 - 📫 Contate-me no e-mail: welington.pincer@gmail.com
